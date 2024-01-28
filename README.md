@@ -1,8 +1,5 @@
-```
-npm install
-npm run dev
-```
+Some boilerplate for Vono and trpc, + tanstack rotuer
 
-```
-open http://localhost:3000
-```
+`pnpm i`
+`pnpm dev`
+ez as pie.
